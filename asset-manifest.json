@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pocket-tasks-manager/static/css/main.7e96242c.chunk.css",
+    "main.js": "/pocket-tasks-manager/static/js/main.56c4ddd9.chunk.js",
+    "main.js.map": "/pocket-tasks-manager/static/js/main.56c4ddd9.chunk.js.map",
+    "runtime-main.js": "/pocket-tasks-manager/static/js/runtime-main.f879376b.js",
+    "runtime-main.js.map": "/pocket-tasks-manager/static/js/runtime-main.f879376b.js.map",
+    "static/js/2.205ef2b8.chunk.js": "/pocket-tasks-manager/static/js/2.205ef2b8.chunk.js",
+    "static/js/2.205ef2b8.chunk.js.map": "/pocket-tasks-manager/static/js/2.205ef2b8.chunk.js.map",
+    "index.html": "/pocket-tasks-manager/index.html",
+    "precache-manifest.4e62504de6e77dbffa23eb5577fef737.js": "/pocket-tasks-manager/precache-manifest.4e62504de6e77dbffa23eb5577fef737.js",
+    "service-worker.js": "/pocket-tasks-manager/service-worker.js",
+    "static/css/main.7e96242c.chunk.css.map": "/pocket-tasks-manager/static/css/main.7e96242c.chunk.css.map",
+    "static/js/2.205ef2b8.chunk.js.LICENSE.txt": "/pocket-tasks-manager/static/js/2.205ef2b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f879376b.js",
+    "static/js/2.205ef2b8.chunk.js",
+    "static/css/main.7e96242c.chunk.css",
+    "static/js/main.56c4ddd9.chunk.js"
+  ]
+}
