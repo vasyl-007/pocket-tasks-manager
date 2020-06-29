@@ -1,0 +1,16 @@
+.todo-app {
+    margin   : 2rem auto 0 auto;
+    max-width: 400px;
+}
+
+.top-panel {
+    margin: 1rem 0;
+}
+
+.author-name {
+    display     : block;
+    margin-top  : 20px;
+    font-size   : 10px;
+    padding-left: 10px;
+    font-style  : italic;
+}
